@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: BigRob Distell
+Author: BigRob Noah Distell
 Twitter: @robdistell
